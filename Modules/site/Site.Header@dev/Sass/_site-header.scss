@@ -104,6 +104,9 @@
   &:hover{
     color: $sc-ink5;
   }
+  @media(max-width: 680px){
+    display: none;
+  }
 }
 
 .header-icon-container{
