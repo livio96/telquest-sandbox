@@ -5,12 +5,12 @@
 	may use this code subject to the terms that govern your access and use.
 }}
 
-<div class="site-search" data-type="site-search">
-    <div class="site-search-content">
-        <form class="site-search-content-form" method="GET" action="/search" data-action="search">
-            <div class="site-search-content-input">
-				<div data-view="ItemsSeacher"></div>
-				<a class="site-search-input-reset" data-type="search-reset"><i class="site-search-input-reset-icon"></i></a>
+<div style="height: 100px;" class="site-search" data-type="site-search">
+    <div style="height: 20%;" class="site-search-content">
+        <form style="height: 20%;" class="site-search-content-form" method="GET" action="/search" data-action="search">
+            <div style="height: 20%;" class="site-search-content-input">
+				<div style="height: 20%;"; data-view="ItemsSeacher"></div>
+				<a style="height: 20%;" class="site-search-input-reset" data-type="search-reset"><i class="site-search-input-reset-icon"></i></a>
             </div>
             <button class="site-search-button-submit" type="submit"><i class="site-search-input-icon"></i></button>
         </form>
