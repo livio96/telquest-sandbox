@@ -96,16 +96,14 @@
   }
 }
 
-.header-profile-login-icon{
+.header-profile-login-icon {
   color: white;
   font-size: 30px;
   line-height: 30px;
   transition: all 0.2s;
-  &:hover{
+
+  &:hover {
     color: $sc-ink5;
-  }
-  @media(max-width: 680px){
-    display: none;
   }
 }
 

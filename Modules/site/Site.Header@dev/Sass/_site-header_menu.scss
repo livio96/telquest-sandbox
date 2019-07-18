@@ -27,6 +27,8 @@
   height: 78px !important;
   border: 0;
   @media(max-width: 680px) {
+    height: 60px !important;
+    margin-top: -15px !important;
     padding-bottom: 15px !important;
   }
 }
